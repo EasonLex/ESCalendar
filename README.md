@@ -13,6 +13,7 @@ Dictionary formate:
 Use date string as key(YYYY-MM-dd), NSNumber 1 as value.
 
 Three delegations:
+
 @required
 - (void)calendarView:(CalendarView*)calendarView doneWithDate:(NSDate*)selectedDate;
 
